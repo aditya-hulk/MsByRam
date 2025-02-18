@@ -9,3 +9,4 @@
 - since we  not define default remote branch for current local branch
 - git push origin master work.
 - here we mention we want to push changes to the master branch of the origin.
+-  git push --set-upstream origin master
